@@ -1,1 +1,1 @@
-# AI is the new Electricity
+ "AI is the new Electricity" Andrew Ng
